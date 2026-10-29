@@ -1,6 +1,6 @@
 # Hi, I'm Denis
 
-Senior Unity developer in Tenerife, Spain. I've been making games for 14+ years and using Unity since v4, with C# as my main language. By day I work on live mobile games at NanoReality Games. The rest of the time I build Unity tools and an indie game.
+Senior Unity developer in Tenerife, Spain. I've been making games for 14+ years and using Unity since v4, with C# as my main language. I build games, Unity tools, and an indie game at my own studio.
 
 ## What I build
 
@@ -24,7 +24,7 @@ More in the behaviour suite: [UnityBehaviorGraph](https://github.com/denchi/Unit
 ## Games
 
 **[Lumen Inferius](https://lumeninferius.com/)** ([Steam](https://store.steampowered.com/app/3122860/)): a 2.5D Souls-like Metroidvania with Lovecraftian horror, set in a vast world and built in Unity at my studio, Death By Gravity. I'm Founder & Creative Director.
-Shipped: My Nano World · My Nano World 3 · Sunrise Town: Merge Game · Brink of Consciousness: The Lonely Hearts Murders · Nearwood – Collector's Edition · Jelly Maze 3D · Pullipop
+Shipped: Brink of Consciousness: The Lonely Hearts Murders · Nearwood – Collector's Edition
 
 ## Tech
 
